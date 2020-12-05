@@ -6,3 +6,4 @@ Follow this to run this file
 3rd go to the index file
 enjoy the site !
 Made this site for the AGR !
+Web Site is Live-https://rocord.netlify.app/
